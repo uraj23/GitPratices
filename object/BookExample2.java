@@ -1,6 +1,6 @@
 public class BookExample2 {
     public static void main(String[] args) {
-        
+        //Allredy book class was created just create objects 
         Book b1=new Book();
         Book b2=new Book();
         Book b3=new Book();
